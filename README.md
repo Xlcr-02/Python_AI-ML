@@ -1,1 +1,1 @@
-# Python_AI-ML
+Inventory Management for Hardware Store.
